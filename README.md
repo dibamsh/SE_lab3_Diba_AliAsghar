@@ -19,5 +19,9 @@
 JSONValue و JSONParser نیز بهبود یافت.
 در نهایت با تابع testJSONArrayBoolean پوشش توابع را در فایل JSONArray بهبود دادیم.
 
+پیش از بهبود:
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/45513491/232138804-b56632e7-8257-444b-8a52-15df1d628f1b.png">
 
-</div>
+  
+پس از بهبود:
+<img width="1279" alt="image" src="https://user-images.githubusercontent.com/45513491/232138676-d2530166-1714-42b9-9f6b-5d2388d7cfe1.png">
